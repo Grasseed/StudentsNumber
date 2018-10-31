@@ -38,5 +38,6 @@ namespace StudentsNumber
         }
     }
 }
-
 ```
+# 注意事項
+小草籽保留最終所有權利
