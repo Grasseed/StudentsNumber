@@ -1,10 +1,10 @@
 # 學生座號姓名
     輸入 0~5 (ex:1)
     輸出 錢一文
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| 座號  | 學生姓名  | 陣列元素 |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-| test | 測試        |    $3333 |
+| 1      | 錢一文 | $1600 |
+| 2      | 孫二娘        |   $12 |
+| 3 | 張三豐        |    $1 |
+| 4 | 李四維        |    $3333 |
     
