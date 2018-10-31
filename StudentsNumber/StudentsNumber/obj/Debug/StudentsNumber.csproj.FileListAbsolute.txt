@@ -1,0 +1,7 @@
+D:\gitdata\StudentsNumber\StudentsNumber\StudentsNumber\bin\Debug\StudentsNumber.exe.config
+D:\gitdata\StudentsNumber\StudentsNumber\StudentsNumber\bin\Debug\StudentsNumber.exe
+D:\gitdata\StudentsNumber\StudentsNumber\StudentsNumber\bin\Debug\StudentsNumber.pdb
+D:\gitdata\StudentsNumber\StudentsNumber\StudentsNumber\obj\Debug\StudentsNumber.csprojAssemblyReference.cache
+D:\gitdata\StudentsNumber\StudentsNumber\StudentsNumber\obj\Debug\StudentsNumber.csproj.CoreCompileInputs.cache
+D:\gitdata\StudentsNumber\StudentsNumber\StudentsNumber\obj\Debug\StudentsNumber.exe
+D:\gitdata\StudentsNumber\StudentsNumber\StudentsNumber\obj\Debug\StudentsNumber.pdb
