@@ -10,7 +10,7 @@
 | 4 | 李四維 | name[3] |
 | 5 | 李四維 | name[4] |
     表1
-```//C#
+```cs
 using System;
 using System.Collections.Generic;
 using System.Linq;
